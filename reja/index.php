@@ -94,7 +94,7 @@
       <li class="nav-item"><a class="nav-link active" href="#">Beranda</a></li>
       <li class="nav-item"><a class="nav-link" href="#">Menu</a></li>
       <li class="nav-item"><a class="nav-link" href="#">Tentang</a></li>
-      <li class="nav-item"><a class="nav-link" href="logout.php">Keluar</a></li>
+      <li class="nav-item"><a class="nav-link" href="login.php">Keluar</a></li>
     </ul>
   </nav>
 
